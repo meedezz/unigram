@@ -1,2 +1,2 @@
-# unigram
-A Windows 10 UWP Telegram Client
+# Unigram - A Windows 10 UWP Telegram Client
+
